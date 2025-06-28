@@ -6,6 +6,8 @@ Abrir índice usando **Google Colab**: [![Colab](https://colab.research.google.c
 ## Otros sitios de interés:
 [Google Colab](http://colab.research.google.com)
 
+[Python](https://www.python.org/)
+
 [Hugging Face Learn](https://huggingface.co/learn)
 
 [TensorFlow Playground](https://playground.tensorflow.org)
